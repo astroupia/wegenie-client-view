@@ -1,7 +1,9 @@
+import style from "./Profile.module.css";
+
 const Profile: React.FC = () => {
   return (
     <>
-      <div>
+      <div className={style.main}>
         <h1>Profile</h1>
       </div>
     </>

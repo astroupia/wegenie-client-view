@@ -3,5 +3,8 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  font-family: "Red Hat Display";
+  color: var(--text-color);
+  font-weight: 900;
   padding: 50px;
 }
